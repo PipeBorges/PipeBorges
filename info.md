@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @PipeBorges
+- 👀 I’m interested in programming web pages and FiveM scripts. 
+- 🌱 I’m currently learning Js and more of ESX (Lua).
+- 💞️ I’m looking to collaborate on some spanish FiveM servers.
+- 📫 How to reach me: on Discord: Pipe Borges#0007
